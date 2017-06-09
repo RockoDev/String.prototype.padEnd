@@ -1,0 +1,32 @@
+{
+  "name": "string.prototype.padEnd",
+  "version": "0.0.1",
+  "description": "Polyfill for String.prototype.padEnd().",
+  "homepage": "https://github.com/RockoDev/String.prototype.padEnd",
+  "main": "padEnd.polyfill.js",
+  "keywords": [
+    "javascript",
+    "polyfill",
+    "padEnd"
+  ],
+  "license": "Apache 2.0",
+  "author": {
+    "name": "Bernardo Hernández",
+    "url": "https://www.rockodev.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RockoDev/String.prototype.padEnd.git"
+  },
+  "bugs": "https://github.com/RockoDev/String.prototype.padEnd/issues",
+  "files": [
+    "LICENSE",
+    "padEnd.polyfill.js"
+  ],
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
