@@ -3,3 +3,7 @@ Polyfill for [String.prototype.padEnd()](https://developer.mozilla.org/en-US/doc
 
 ### Related:
 [String.prototype.padStart()](https://github.com/RockoDev/String.prototype.padStart)
+## Run Tests
+```sh
+$ npm run test
+```
